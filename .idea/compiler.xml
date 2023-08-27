@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="RandomRoulette.core" target="11" />
+      <module name="RandomRoulette.data" target="11" />
+      <module name="RandomRoulette.feature" target="11" />
+      <module name="RandomRoulette.feature.news_api" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
